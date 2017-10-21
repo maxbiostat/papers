@@ -7,9 +7,11 @@ PDFs of my articles, published, in press and unpublished. Preprints are availabl
 
 ## Peer-reviewed papers
 
-1. F. P. Camara, A. L. Gomes, Carvalho, L. M., and L. G. Castello, “Dynamic behavior of sylvatic Yellow fever in Brazil (1954-2008),” Rev. Soc. Bras. Med. Trop., vol. 44, no. 3, pp. 297–299, 2011. [[link]](https://www.ncbi.nlm.nih.gov/pubmed/23442573) [[PDF]](https://github.com/maxbiostat/papers/blob/master/PAPERS/Camara_et_al_2011_RSBMT.pdf)
-2. Carvalho, L. M. and F. P. Camara, “Epidemiological aspects of acquired immunodeficiency syndrome in older Brazilians: a comparative approach,” Braz J Infect Dis, vol. 16, no. 1, pp. 34–37,2012. [[link]](https://www.ncbi.nlm.nih.gov/pubmed/22358353) [[PDF]](https://github.com/maxbiostat/papers/blob/master/PAPERS/Carvalho_et_al_2012_BJID.pdf)
-3. F. P. Camara, Carvalho, L. M., and A. L. Gomes, “Demographic profile of sylvatic yellow fever in Brazil from 1973 to 2008” Trans. R. Soc. Trop. Med. Hyg., vol. 107, pp. 324–327, May 2013. [[doi]](https://doi.org/10.1093/trstmh/trt014) [[PDF]]()
+1. F. P. Camara, A. L. Gomes, Carvalho, L. M., and L. G. Castello, “Dynamic behavior of sylvatic Yellow fever in Brazil (1954-2008),” Rev. Soc. Bras. Med. Trop., vol. 44, no. 3, pp. 297–299, 2011. [[link]](https://www.ncbi.nlm.nih.gov/pubmed/23442573) [[PDF]](https://github.com/maxbiostat/papers/blob/master/PAPERS/Camara_et_al_2011_RSBMT.pdf).
+2. Carvalho, L. M. and F. P. Camara, “Epidemiological aspects of acquired immunodeficiency syndrome in older Brazilians: a comparative approach,” Braz J Infect Dis, vol. 16, no. 1, pp. 34–37,2012. [[link]](https://www.ncbi.nlm.nih.gov/pubmed/22358353) [[PDF]](https://github.com/maxbiostat/papers/blob/master/PAPERS/Carvalho_et_al_2012_BJID.pdf).
+3. F. P. Camara, Carvalho, L. M., and A. L. Gomes, “Demographic profile of sylvatic yellow fever in Brazil from 1973 to 2008” Trans. R. Soc. Trop. Med. Hyg., vol. 107, pp. 324–327, May 2013. [[doi]](https://doi.org/10.1093/trstmh/trt014) [[PDF]](https://github.com/maxbiostat/papers/blob/master/PAPERS/Camara_et_al_2013_TRSTMH.pdf).
+4. Carvalho, L. M., L. B. Santos, N. R. Faria, and W. de Castro Silveira, “Phylogeography of foot-and-mouth disease virus serotype O in Ecuador,” Infect. Genet. Evol., vol. 13, pp. 76–88, Jan 2013. [[link]](http://www.sciencedirect.com/science/article/pii/S1567134812002857) [[PDF]](https://github.com/maxbiostat/papers/blob/master/PAPERS/Carvalho_et_al_2013_IGE.pdf).
+5. F. Bielejec, P. Lemey, Carvalho, L. M., G. Baele, A. Rambaut, and M. A. Suchard, “BUSS: a parallel BEAST/BEAGLE utility for sequence simulation under complex evolutionary scenarios,” BMC Bioinformatics, vol. 15, p. 133, 2014. [[link]](https://www.ncbi.nlm.nih.gov/pubmed/24885610) [[PDF]](https://github.com/maxbiostat/papers/blob/master/PAPERS/Bielejec_et_al_2014_BMC.pdf).
 
 
 
