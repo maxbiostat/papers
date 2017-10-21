@@ -7,7 +7,7 @@ PDFs of my articles, published, in press and unpublished. Preprints are availabl
 
 ## Peer-reviewed papers
 
-1. F. P. Camara, A. L. Gomes, Carvalho, L. M., and L. G. Castello, “Dynamic behavior of sylvatic Yellow fever in Brazil (1954-2008),” Rev. Soc. Bras. Med. Trop., vol. 44, no. 3, pp. 297–299, 2011. [[link]](https://www.ncbi.nlm.nih.gov/pubmed/23442573) [[PDF]](https://github.com/maxbiostat/papers/blob/master/PAPERS/Camara_et_al_2011_TRSTMH.pdf)
+1. F. P. Camara, A. L. Gomes, Carvalho, L. M., and L. G. Castello, “Dynamic behavior of sylvatic Yellow fever in Brazil (1954-2008),” Rev. Soc. Bras. Med. Trop., vol. 44, no. 3, pp. 297–299, 2011. [[link]](https://www.ncbi.nlm.nih.gov/pubmed/23442573) [[PDF]](https://github.com/maxbiostat/papers/blob/master/PAPERS/Camara_et_al_2011_RSBMT.pdf)
 2. Carvalho, L. M. and F. P. Camara, “Epidemiological aspects of acquired immunodeficiency syndrome in older Brazilians: a comparative approach,” Braz J Infect Dis, vol. 16, no. 1, pp. 34–37,2012. [[link]](https://www.ncbi.nlm.nih.gov/pubmed/22358353) [[PDF]](https://github.com/maxbiostat/papers/blob/master/PAPERS/Carvalho_et_al_2012_BJID.pdf)
 3. F. P. Camara, Carvalho, L. M., and A. L. Gomes, “Demographic profile of sylvatic yellow fever in Brazil from 1973 to 2008” Trans. R. Soc. Trop. Med. Hyg., vol. 107, pp. 324–327, May 2013. [[doi]](https://doi.org/10.1093/trstmh/trt014) [[PDF]]()
 
