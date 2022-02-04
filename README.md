@@ -1,6 +1,6 @@
 PDFs of my articles, published, in press and unpublished. Preprints are available for the later two.
 
-**DISCLAIMER**: the PDFs in this site are for my personal use. By clicking/downloading them it is assumed you have the correct permissions (??) to access them. Yep, that's how we do Science these days; behind paywalls... Go figure...
+**DISCLAIMER**: the PDFs in this site are for my personal use. By clicking/downloading them it is assumed you have the correct permissions (??) to access them. Yep, that's how we do Science, apparently; behind paywalls... Go figure...
 
 If you spot anything wrong, please [email](mailto://lmax.procc@gmail.com) me.
 
