@@ -39,3 +39,10 @@ human interface,” _eLife_, vol. 7, p. e31257, 2018. [[bioarXiv]](https://www.b
 5. LANA, R. M., CODEÇO, C. T., SANTOS, R. V., CUNHA, B., COELHO, F. C., CRUZ, O.G., CALDAS, A. D. R., SOUZA, M. C., BASTOS, L. S., PONTES, A. L. M., GOMES, M. L.
 C., TAVARES, I. N., DAL’ASTA, A. P., RORATO, A. C., ESCADA, M. I. S., CARVALHO, L. M., VILLELA, D. A. M., DAMASCO, F. S., and CARDOSO, A. M. "Vulnerabilidade das
 populações indígenas à pandemia de Covid-19 no Brasil e os desafios para o seu monitoramento".In: FREITAS, C. M., BARCELLOS, C., and VILLELA, D. A. M., eds. _COVID-19 no Brasil: cenários epidemiológicos e vigilância em saúde (online)_. Rio de Janeiro: Observatório Covid-19 Fiocruz; Editora Fiocruz, 2021, pp. 127-142. Informação para ação na Covid-19 series. ISBN: 978-65-5708-049-8. [[link]](https://doi.org/10.7476/9786557081211.0008).
+
+## Unpublished
+
+1. Carvalho LM, Faria NR, Perez AM, Suchard MA, Lemey P, Silveira WD, Rambaut A, Baele G. "Spatio-temporal dynamics of foot-and-mouth disease virus in South America". arXiv preprint arXiv:1505.01105. 2015 May 5. [[PDF]](https://arxiv.org/pdf/1505.01105.pdf) [[code]](https://github.com/maxbiostat/FMDV_AMERICA).
+2. Kubinec R, Carvalho L, Barceló J, Cheng C, Messerschmidt L, Duba D, Cottrell MS. Fear, Partisanship and the Spread of COVID-19 in the United States. 2020. [[PDF]](https://osf.io/preprints/socarxiv/jp4wk/download). 
+3. Coelho FC, Carvalho LM, Lana RM, Cruz OG, Bastos LS, Codeço CT, Gomes MF, Villela D. "Modeling the post-containment elimination of transmission of COVID-19". medRxiv. 2020 Jan 1. [[PDF]](https://www.medrxiv.org/content/medrxiv/early/2020/06/17/2020.06.15.20132050.full.pdf). 
+4. Villela DA, de Noronha TG, Bastos LS, Pacheco AG, Cruz OG, Carvalho LM, Codeço CT, Gomes MF, Coelho FC, Freitas LP, Lana RM. "Effectiveness of Mass Vaccination in Brazil against Severe COVID-19 Cases". medRxiv. 2021 Jan 1. [[PDF]](https://www.medrxiv.org/content/medrxiv/early/2021/09/15/2021.09.10.21263084.full.pdf)
