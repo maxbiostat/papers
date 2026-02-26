@@ -43,6 +43,5 @@ populações indígenas à pandemia de Covid-19 no Brasil e os desafios para o s
 ## Unpublished
 
 1. Carvalho LM, Faria NR, Perez AM, Suchard MA, Lemey P, Silveira WD, Rambaut A, Baele G. "Spatio-temporal dynamics of foot-and-mouth disease virus in South America". arXiv preprint arXiv:1505.01105. 2015 May 5. [[PDF]](https://arxiv.org/pdf/1505.01105.pdf) [[Revised PDF]](https://github.com/maxbiostat/papers/blob/master/PAPERS/unpublished/FMDV_updated.pdf) [[code]](https://github.com/maxbiostat/FMDV_AMERICA).
-2. Kubinec R, Carvalho L, Barceló J, Cheng C, Messerschmidt L, Duba D, Cottrell MS. "Fear, Partisanship and the Spread of COVID-19 in the United States". 2020. [[PDF]](https://osf.io/preprints/socarxiv/jp4wk/download). 
-3. Coelho FC, Carvalho LM, Lana RM, Cruz OG, Bastos LS, Codeço CT, Gomes MF, Villela D. "Modeling the post-containment elimination of transmission of COVID-19". medRxiv. 2020 Jan 1. [[PDF]](https://www.medrxiv.org/content/medrxiv/early/2020/06/17/2020.06.15.20132050.full.pdf). 
-4. Villela DA, de Noronha TG, Bastos LS, Pacheco AG, Cruz OG, Carvalho LM, Codeço CT, Gomes MF, Coelho FC, Freitas LP, Lana RM. "Effectiveness of Mass Vaccination in Brazil against Severe COVID-19 Cases". medRxiv. 2021 Jan 1. [[PDF]](https://www.medrxiv.org/content/medrxiv/early/2021/09/15/2021.09.10.21263084.full.pdf).
+2. Coelho FC, Carvalho LM, Lana RM, Cruz OG, Bastos LS, Codeço CT, Gomes MF, Villela D. "Modeling the post-containment elimination of transmission of COVID-19". medRxiv. 2020 Jan 1. [[PDF]](https://www.medrxiv.org/content/medrxiv/early/2020/06/17/2020.06.15.20132050.full.pdf). 
+
